@@ -1,7 +1,7 @@
 # Geddit-Word-Search
 
 
-<img src="https://www.dictionary.com/e/wp-content/uploads/2018/12/1000x700-most-searched-words-2018-790x310.jpg" width="200px" height="200px" />
+<img src="https://www.dictionary.com/e/wp-content/uploads/2018/12/1000x700-most-searched-words-2018-790x310.jpg" width="500px" height="200px" />
 
 ## Version 1 - Week 15: Working with Simple Components (MIT XPro, August 2021)
 
