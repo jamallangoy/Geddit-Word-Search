@@ -1,0 +1,150 @@
+body{
+    background-color: black;
+}
+.main{
+    /* display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+        "header input content"
+    ; */
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    border: 11px solid black;
+    border-radius: 50px;
+    background-color:rgb(255, 255, 255);
+    height: 84.2vh;
+    width:80vw;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+    
+}
+
+.page-item{
+    margin: auto;
+    background-color: palegoldenrod;
+}
+
+.header{
+    grid-area: header;
+    background-color: palegoldenrod;
+    border: 1px solid black;
+    border-top-left-radius: 39px;
+    border-top-right-radius: 39px;
+    margin: auto;
+    padding:10px;
+    font-family: 'Mrs Sheppards', cursive;
+}
+
+.input {
+    grid-area: input;
+    border-radius: 50px;
+    background-color: white;
+    display:inline-block;
+    margin:  auto;
+    width: 300px;
+}
+
+.button{
+    border-radius: 50px;
+    background-color: rgb(210, 236, 210);
+    display: inline-block;
+    margin: 20px;
+    width: 150px;
+}
+
+.content{
+    grid-area: content;
+    background-color: palegoldenrod;
+    width: 75%;
+    margin: auto;
+    padding: 5px 15px;
+    font-size: .8rem;
+    text-align: left;
+}
+
+.side{
+    background-color: rgb(210, 236, 210);
+    border: 1px solid black;
+    border-bottom-left-radius: 39px;
+    border-bottom-right-radius: 39px;
+}
+
+@media only screen and (max-width: 600px) {
+   
+    body{
+        background-color: black;
+    }
+    .main{
+        /* display: grid;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-template-areas: 
+            "header input"
+            "content"
+        ; */
+        align-items: center;
+        text-align: center;
+        margin: 20px;
+        border: 11px solid black;
+        border-radius: 50px;
+        background-color:rgb(255, 255, 255);
+        height: 124.5vh;
+        width:80vw;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    
+        
+    }
+    
+    .page-item{
+        margin: auto;
+        background-color: palegoldenrod;
+    }
+    
+    .header{
+        grid-area: header;
+        background-color: palegoldenrod;
+        border: 1px solid black;
+        border-top-left-radius: 39px;
+        border-top-right-radius: 39px;
+        margin: auto;
+        padding:10px;
+        font-family: 'Mrs Sheppards', cursive;
+        
+    }
+    
+    .input {
+        grid-area: input;
+        border-radius: 50px;
+        background-color: white;
+        margin:  5px auto 0;
+        width: 200px;
+    }
+    
+    .button{
+        border-radius: 50px;
+        background-color: rgb(210, 236, 210);
+        display: inline-block;
+        margin: 20px;
+        width: 80px;
+    }
+    
+    .content{
+        grid-area: content;
+        background-color: palegoldenrod;
+        border-bottom-right-radius: 12px;
+        width: 75%;
+        margin: 0;
+        font-size: .8rem;
+        text-align: left;
+    }
+    
+    .side{
+        background-color: rgb(210, 236, 210);
+        border: 1px solid black;
+        border-bottom-left-radius: 39px;
+        border-bottom-right-radius: 39px;
+    }
+  }
