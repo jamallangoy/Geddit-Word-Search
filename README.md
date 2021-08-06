@@ -7,7 +7,7 @@
 
 # Description
 
-This is a basic "Dictionary App ".  Using css grids and a custom api, I've replicated a simple to do list with the functionality of simulating the basic necessities of an ATM Machine. 
+This is a basic "Word Search App ".  Using css grids and a custom api, I've replicated a simple dictionary style of web application 
 
 # How to Run
 
@@ -15,8 +15,6 @@ This is a basic "Dictionary App ".  Using css grids and a custom api, I've repli
 2) Clone onto your machine using Git
 3) Drag and drop "fetch.html" into a new tab
 4) Innovate it and teach us what you did and how you did it!!!
-
-P.S. Please do not forget to register to MapBox in order to get an API key....
 
 
 # Documentation
