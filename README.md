@@ -1,7 +1,7 @@
 # Geddit-Word-Search
 
 
-<img src="https://github.com/jamallangoy/Geddit-Word-Search/blob/main/Geddit%20Snippet%20%231.PNG" width="500px" height="200px" />
+<img src="https://github.com/jamallangoy/Geddit-Word-Search/blob/main/Geddit%20Snippet%20%231.PNG" width="500px" height="500px" />
 
 ## Version 1 - Week 15: Working with Simple Components (MIT XPro, August 2021)
 
